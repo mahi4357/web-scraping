@@ -14,6 +14,9 @@ This project aims to perform web scraping using the Selenium library in Python. 
 
 
 METHODOLOGY
+
+
+
 The methodology followed in web scraping using Selenium and data analysis can be broken down into the following steps:
 
 Setup: Install and import the necessary libraries such as Selenium, Pandas, and Matplotlib. Set up a Selenium web driver to automate browser interactions.
